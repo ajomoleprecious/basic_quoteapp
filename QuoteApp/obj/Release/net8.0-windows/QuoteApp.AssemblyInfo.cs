@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuoteApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42d8ef828b8a0825332d97d9885bfb423ac6a114")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuoteApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuoteApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
