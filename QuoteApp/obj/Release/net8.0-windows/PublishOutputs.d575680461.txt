@@ -1,0 +1,6 @@
+C:\Git_Projects\QuoteApp\QuoteApp\QuoteApp\bin\Release\net8.0-windows\app.publish\QuoteApp.exe
+C:\Git_Projects\QuoteApp\QuoteApp\QuoteApp\bin\Release\net8.0-windows\app.publish\QuoteApp.dll
+C:\Git_Projects\QuoteApp\QuoteApp\QuoteApp\bin\Release\net8.0-windows\app.publish\QuoteApp.deps.json
+C:\Git_Projects\QuoteApp\QuoteApp\QuoteApp\bin\Release\net8.0-windows\app.publish\QuoteApp.runtimeconfig.json
+C:\Git_Projects\QuoteApp\QuoteApp\QuoteApp\bin\Release\net8.0-windows\app.publish\QuoteApp.pdb
+C:\Git_Projects\QuoteApp\QuoteApp\QuoteApp\bin\Release\net8.0-windows\app.publish\Newtonsoft.Json.dll
